@@ -1,3 +1,0 @@
-[submodule "shell_provisioner"]
-	path = shell_provisioner
-	url = git@gitlab.hosted-tools.com:intracto/shell_provisioner.git
